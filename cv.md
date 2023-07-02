@@ -1,22 +1,22 @@
-# __Igor Tihomirov__
+# **Igor Tihomirov**
 
 ## ![me](me_photo.jpg "It's me")
 
-## __Contacts__
+## **Contacts**
 
-    * __Location:__ Moscow
-    * __e-mail:__ i.n.tihomirov@yandex.ru
-    * __Phone:__ +79969225290
-    * __GitHub:__ IgorTihomirov
-    * __Discord__ IgorTihomirov#9436
+    * **Location:** Moscow
+    * **e-mail:** i.n.tihomirov@yandex.ru
+    * **Phone:** +79969225290
+    * **GitHub:** IgorTihomirov
+    * **Discord** IgorTihomirov#9436
 
 ---
 
-## __About me__
+## **About me**
 
- I'm 28 years old. My profession is eletronic engineer. I want to study something new and that's why I am here.
+I'm 28 years old. My profession is eletronic engineer. I want to study something new and that's why I am here.
 
-## __Skills__
+## **Skills**
 
     * A little Git
     * A little Javascript
@@ -25,7 +25,7 @@
 
 ---
 
-## __Code examples__
+## **Code examples**
 
 ```
 const payperhour = 80;
@@ -40,20 +40,20 @@ console.log('Сколько бабок попросить?' + ' ' + money);
 
 ---
 
-## __Expirence__
+## **Experience**
 
- Something will be here soon
+Something will be here soon
 
-## __Education__
+## **Education**
 
-    * __National Research University of Electronic Technology - MIET__
-        - Institute of Microdevices and Control Systems (MCS)
-    * __Stepik__
-        - JavaScript.Basics by Anton Larichev (in progress..)
+    * **National Research University of Electronic Technology - MIET**
+        * Institute of Microdevices and Control Systems (MCS)
+    * **Stepik**
+        * JavaScript.Basics by Anton Larichev (in progress..)
 
 ---
 
-## __Languages__
+## **Languages**
 
     * Russian
     * English(Lingualeo speaks, what i have intermediate level(B1-B2))
