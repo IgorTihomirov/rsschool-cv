@@ -4,11 +4,10 @@
 
 ## **Contacts**
 
-    * **Location:** Moscow
-    * **e-mail:** i.n.tihomirov@yandex.ru
-    * **Phone:** +79969225290
-    * **GitHub:** IgorTihomirov
-    * **Discord** IgorTihomirov#9436
+  * **Location:** Moscow
+  * **e-mail:** i.n.tihomirov@yandex.ru
+  * **GitHub:** IgorTihomirov
+  * **Discord** IgorTihomirov#9436
 
 ---
 
@@ -18,10 +17,10 @@ I'm 28 years old. My profession is eletronic engineer. I want to study something
 
 ## **Skills**
 
-    * A little Git
-    * A little Javascript
-    * A little HTML
-    * A little CSS
+  * A little Git
+  * A little Javascript
+  * A little HTML
+  * A little CSS
 
 ---
 
@@ -46,14 +45,14 @@ Something will be here soon
 
 ## **Education**
 
-    * **National Research University of Electronic Technology - MIET**
-        * Institute of Microdevices and Control Systems (MCS)
-    * **Stepik**
-        * JavaScript.Basics by Anton Larichev (in progress..)
+  * **National Research University of Electronic Technology - MIET**
+    * Institute of Microdevices and Control Systems (MCS)
+  * **Stepik**
+    * JavaScript.Basics by Anton Larichev (in progress..)
 
 ---
 
 ## **Languages**
 
-    * Russian
-    * English(Lingualeo speaks, what i have intermediate level(B1-B2))
+  * Russian
+  * English(Lingualeo speaks, what i have intermediate level(B1-B2))
