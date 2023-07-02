@@ -1,31 +1,31 @@
-# _Igor Tihomirov_
+# __Igor Tihomirov__
 
 ## ![me](me_photo.jpg "It's me")
 
-## _Contacts_
+## __Contacts__
 
-    * *Location:* Moscow
-    * *e-mail:* i.n.tihomirov@yandex.ru
-    * *Phone:* +79969225290
-    * *GitHub:* IgorTihomirov
-    * *Discord* IgorTihomirov#9436
+    * __Location:__ Moscow
+    * __e-mail:__ i.n.tihomirov@yandex.ru
+    * __Phone:__ +79969225290
+    * __GitHub:__ IgorTihomirov
+    * __Discord__ IgorTihomirov#9436
 
 ---
 
-## _About me_
+## __About me__
 
  I'm 28 years old. My profession is eletronic engineer. I want to study something new and that's why I am here.
 
-## _Skills_
+## __Skills__
 
-    *A little Git
-    *A little Javascript
-    *A little HTML
-    *A little CSS
+    * A little Git
+    * A little Javascript
+    * A little HTML
+    * A little CSS
 
 ---
 
-## _Code examples_
+## __Code examples__
 
 ```
 const payperhour = 80;
@@ -40,20 +40,20 @@ console.log('Сколько бабок попросить?' + ' ' + money);
 
 ---
 
-## _Expirence_
+## __Expirence__
 
  Something will be here soon
 
-## Education
+## __Education__
 
-    * *National Research University of Electronic Technology - MIET*
-        * Institute of Microdevices and Control Systems (MCS)
-    * *Stepik*
-        * JavaScript.Basics by Anton Larichev (in progress..)
+    * __National Research University of Electronic Technology - MIET__
+        - Institute of Microdevices and Control Systems (MCS)
+    * __Stepik__
+        - JavaScript.Basics by Anton Larichev (in progress..)
 
 ---
 
-## _Languages_
+## __Languages__
 
-    * Rissian
+    * Russian
     * English(Lingualeo speaks, what i have intermediate level(B1-B2))
