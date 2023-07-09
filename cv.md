@@ -1,6 +1,6 @@
 # **Igor Tihomirov**
 
-## ![me](me_photo.jpg "It's me")
+## ![me](assets/img/me_photo.jpg "It's me")
 
 ## **Contacts**
 
